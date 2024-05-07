@@ -1,4 +1,8 @@
 HOL
-- static: https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.networking.doc/GUID-350344DE-483A-42ED-B0E2-C811EE927D59.html
-- dynamic: https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.networking.doc/GUID-375B45C7-684C-4C51-BA3C-70E48DFABF04.html
+- static switch: https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.networking.doc/GUID-350344DE-483A-42ED-B0E2-C811EE927D59.html
+- dynamic switch: https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.networking.doc/GUID-375B45C7-684C-4C51-BA3C-70E48DFABF04.html
 - https://infohub.delltechnologies.com/en-us/l/vmware-cloud-foundation-on-vxrail-multirack-deployment-using-bgp-evpn-part-2-of-2-1/create-a-local-user-in-the-workload-domain-vcenter-server-1/
+
+CloudSum
+- https://cloudsimtutorials.online/cloudsim-setup-using-eclipse/
+- https://www.geeksforgeeks.org/what-is-cloudsim/
